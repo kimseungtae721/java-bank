@@ -4,7 +4,7 @@ public class Bank {
    String ano;
    String owner;
    int money;
-   int test;
+
    
    public Bank(String ano,String owner,int money) {
       this.ano = ano;
